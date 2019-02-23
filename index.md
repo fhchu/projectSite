@@ -5,7 +5,6 @@
 layout: default
 ---
 
-
 # Calendar
 
 I feel like the most important part of the website is the calendar, so I moved it to the home page. It is also a Google Calendar so you can easily add events to your personal calendar.
