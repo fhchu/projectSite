@@ -12,9 +12,9 @@ I feel like the most important part of the website is the calendar, so I moved i
 
 ### Pros:
 
-* Users can add a Google Maps location for the event (Triton Statue/Center Hall etc.) </li>
-* You can easily click to add the event to your personal calendar </li>
+* Users can add a Google Maps location for the event (Triton Statue/Center Hall etc.)
+* You can easily click to add the event to your personal calendar
 
 ### Cons:
 
-* The way event signups work right now would not work with the google events and would have to be adjusted. </li> 
+* The way event signups work right now would not work with the google events and would have to be adjusted.
